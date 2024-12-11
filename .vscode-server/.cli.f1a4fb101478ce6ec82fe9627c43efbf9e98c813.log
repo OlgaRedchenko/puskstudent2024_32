@@ -1,0 +1,10 @@
+Listening on 127.0.0.1:38513
+[2024-12-11 13:03:20] info Disposed of connection to running server.
+looking for token 71a2693a-c451-4380-9716-cd60c447cf50, got Some("71a2693a-c451-4380-9716-cd60c447cf50")
+[2024-12-11 13:03:21] info Checking /home/puskstudent2024_32/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /home/puskstudent2024_32/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
+[2024-12-11 13:03:21] info Starting server...
+[2024-12-11 13:03:21] info Server started
+[2024-12-11 16:00:33] info Disposed of connection to running server.
+looking for token 71a2693a-c451-4380-9716-cd60c447cf50, got Some("71a2693a-c451-4380-9716-cd60c447cf50")
+[2024-12-11 16:00:33] info Checking /home/puskstudent2024_32/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /home/puskstudent2024_32/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
+[2024-12-11 16:00:33] info Found running server (pid=2963828)
